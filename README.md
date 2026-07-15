@@ -20,9 +20,9 @@
 
 
 <p align="center">
- ## ⭐ GitHub Stats
+ <h2>⭐ GitHub Stats</h2>
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=itsnisantana&theme=github_dark">
- ## ⭐ GitHub Analitics
+ <h2>⭐ GitHub Analitics</h2>
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsnisantana&theme=github_dark">
 </p>
 
