@@ -17,10 +17,12 @@
 
 ---
 
-## ⭐ GitHub Stats
+
 
 <p align="center">
+ ## ⭐ GitHub Stats
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=itsnisantana&theme=github_dark">
+ ## ⭐ GitHub Analitics
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsnisantana&theme=github_dark">
 </p>
 
