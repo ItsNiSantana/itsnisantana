@@ -13,16 +13,14 @@
 
 ## 🚀 Minhas Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,php,mint,js,html,css,mysql,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,php,python,mint,js,html,css,mysql,vscode)](https://skillicons.dev)
 
 ---
 
-
+##⭐ GitHub Stats
 
 <p align="center">
- <h2>⭐ GitHub Stats</h2>
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=itsnisantana&theme=github_dark">
- <h2>⭐ GitHub Analitics</h2>
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsnisantana&theme=github_dark">
 </p>
 
