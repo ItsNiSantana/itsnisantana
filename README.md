@@ -30,9 +30,9 @@
 
 --- 
 
-<p align="left">
+<h3 align="left">
   📫 Como entrar em contato comigo: ⤵️
-</p>
+</h3>
 
 <p align="left">
   <a href="#" title="Gmail">
