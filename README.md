@@ -2,22 +2,24 @@
  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Nicoli%20Santana">
 </p>
 
-# Hi, my name is Nicoli Santana 
-## Welcome to my Github profile Github👋
+<h1>Hi, my name is Nicoli Santana</h1>
+<h2>Welcome to my Github profile Github👋</h2>
 
-##About me
--🎓 I'm studying Computer Science at IFSP – São João da Boa Vista campus.
--🤔 I'm exploring new technologies and developing software solutions.
+<h2>About me</h2>
+<ul>
+  <li>🎓 I'm studying Computer Science at IFSP – São João da Boa Vista campus.</li>
+  <li>🤔 I'm exploring new technologies and developing software solutions.</li>
+</ul>
 
 ---
 
-## 🚀 Minhas Skills
+<h2>🚀 Minhas Skills</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,php,python,mint,js,html,css,mysql,vscode)](https://skillicons.dev)
 
 ---
 
-##⭐ GitHub Stats
+<h2>⭐ GitHub Stats</h2>
 
 <p align="center">
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=itsnisantana&theme=github_dark">
