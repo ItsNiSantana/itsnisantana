@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Nicoli%20Santana">
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=500&color=gradient&text=Nicoli%20Santana">
 </p>
 
 # Hi, my name is Nicoli Santana 
