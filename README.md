@@ -3,7 +3,7 @@
 </p>
 
 <h1>Hi, my name is Nicoli Santana</h1>
-<h2>Welcome to my Github profile Github👋</h2>
+<h2>Welcome to my Github profile👋</h2>
 
 <h2>About me</h2>
 <ul>
@@ -35,9 +35,9 @@
 </h3>
 
 <p align="left">
-  <a href="#" title="Gmail">
+  <a href="malito:nicolisgadelha@hotmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:itsnisantana@gmail.com" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
+  <a href="linkedin.com/in/itsnisantana/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itsnisantana/" alt="LinkedIn"/></a>
  <!--<a href="#" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>-->
